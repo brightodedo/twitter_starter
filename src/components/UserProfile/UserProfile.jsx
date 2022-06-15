@@ -3,12 +3,12 @@ import { formatNumTweets, formatNumFollowers } from "../../utils/format"
 import "./UserProfile.css"
 
 export default function UserProfile({ userProfile }) {
-  return (
+  return ( 
     <div className="col user-profile">
       <div className="card">
         <div className="card-bg" />
-        <CardContent />
-        <CardFooter />
+        <CardContent {...userProfile}/>
+        <CardFooter {...userProfile}/>
       </div>
     </div>
   )

@@ -16,6 +16,9 @@ The task here will be to write code that specs out the old user interface with m
 
 Follow the instructions available on the [course portal](https://courses.codepath.org/courses/summer_internship_for_tech_excellence/unit/2#!lab2)
 
+![twitter](https://user-images.githubusercontent.com/54002497/174931136-bfd4fc93-c5ed-4eaa-9fd7-09de3ad952ba.gif)
+
+
 ## Setting up the lab
 
 Make sure to install the proper dependencies.

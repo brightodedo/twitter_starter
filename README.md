@@ -7,8 +7,9 @@ Week 2 - React Lab #2
 Twitter has kindly asked SITE interns to help them run an A/B test for their new UI. An A/B test is where an experimenter shows different UI screens to users and determines which interface they prefer.
 
 Previously Twitter's feed page looked like this:
+![Loom-Message-8-July-2022](https://user-images.githubusercontent.com/54002497/178085707-342691c0-d062-40c5-86bd-320f08d89b58.gif)
 
-![old_twitter](./src/assets/old-twitter.png)
+
 
 Go to `https://www.twitter.com` now to see their modern UI.
 
